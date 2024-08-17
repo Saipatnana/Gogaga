@@ -75,6 +75,7 @@ body{
     border-width: 0px;
     outline: none;
     background-color: transparent;
+    width: 100%;
 }
 .search-btn{
     border: 1px solid black;
@@ -108,5 +109,8 @@ body{
     }
     body{
         overflow: auto;
+    }
+    .bg-container{
+        padding: 10px;
     }
 }
