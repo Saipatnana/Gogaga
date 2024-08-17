@@ -101,7 +101,7 @@ body{
     background-color: rgb(209, 209, 209);
     color: black;
 }
-@media screen and (max-width:480px) {
+@media screen and (max-width:450px) {
     .search-btn{
         width: 100%;
         margin-left: 0px;
@@ -112,5 +112,6 @@ body{
     }
     .bg-container{
         padding: 10px;
+        height: 11 0vh;
     }
 }
