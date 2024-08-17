@@ -101,6 +101,9 @@ body{
     background-color: rgb(209, 209, 209);
     color: black;
 }
+.night{
+    width: 40px;
+}
 @media screen and (max-width:450px) {
     .search-btn{
         width: 100%;
